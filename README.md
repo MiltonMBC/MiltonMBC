@@ -10,7 +10,7 @@ Busco constantemente dominar nuevas tecnologías para crear aplicaciones fluidas
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Profile%20views&color=0e75b6&style=flat" alt="Milton Belen" />
+  <img src="https://komarev.com/ghpvc/?username=MiltonMBC&label=Profile%20views&color=0e75b6&style=flat" alt="Milton Belen" />
 </p>
 
 <br>
