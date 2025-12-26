@@ -53,10 +53,12 @@ Busco constantemente dominar nuevas tecnologías para crear aplicaciones fluidas
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
 <h3 align="left">📊 Estadísticas de GitHub</h3>
 <div align="center">
 
-![Stats de Milton](https://github-readme-stats.vercel.app/api?username=MiltonMBC&theme=midnight-purple&show_icons=true&hide_border=true)
+![Stats de Milton](https://github-readme-stats.vercel.app/api?username=MiltonMBC&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+
 ![Streak](https://streak-stats.demolab.com/?user=MiltonMBC&theme=midnight-purple&hide_border=true)
 
 </div>
