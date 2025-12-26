@@ -67,7 +67,7 @@ A lo largo de mi trayectoria, he destacado por mi capacidad de <b>trabajo colabo
 <p align="left">
 <a href="https://linkedin.com/in/milton-belen" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Milton Belen LinkedIn" height="30" width="40" />
-  <a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+  <a href = 'https://milton-belen-portafolio.netlify.app/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 </a>
 </p>
 
