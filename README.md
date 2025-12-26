@@ -71,7 +71,7 @@ Busco constantemente dominar nuevas tecnologías para crear aplicaciones fluidas
 
 <h3 align="left">📫 Conecta conmigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/TU_LINKEDIN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Milton Belen" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/milton-belen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Milton Belen" height="30" width="40" /></a>
 </p>
 
 <p align="right"><i>Ingeniería y Código para transformar realidades.</i></p>
