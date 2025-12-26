@@ -56,8 +56,8 @@ Busco constantemente dominar nuevas tecnologías para crear aplicaciones fluidas
 <h3 align="left">📊 Estadísticas de GitHub</h3>
 <div align="center">
 
-![Stats de Milton](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&theme=midnight-purple&show_icons=true&hide_border=true)
-![Streak](https://streak-stats.demolab.com/?user=TU_USUARIO_GITHUB&theme=midnight-purple&hide_border=true)
+![Stats de Milton](https://github-readme-stats.vercel.app/api?username=MiltonMBC&theme=midnight-purple&show_icons=true&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=MiltonMBC&theme=midnight-purple&hide_border=true)
 
 </div>
 
