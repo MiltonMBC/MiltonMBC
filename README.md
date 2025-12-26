@@ -63,7 +63,7 @@ Busco constantemente dominar nuevas tecnologías para crear aplicaciones fluidas
 
 <h3 align="left">📈 Actividad Reciente</h3>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&custom_title=Actividad%20de%20Código&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=MiltonMBC&custom_title=Actividad%20de%20Código&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true)
 
 <br>
 
